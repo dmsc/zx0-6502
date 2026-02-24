@@ -1,3 +1,11 @@
+# This is deprecated
+
+> [!IMPORTANT]
+> This code is **deprecated**, it was continued as a new compression format **ZX02** at
+> https://github.com/dmsc/zx02
+
+---
+
 # Custom version of ZX0 compressor
 
 This is a modified version of the [ZX0](https://github.com/einar-saukas/ZX0)
